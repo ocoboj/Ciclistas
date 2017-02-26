@@ -1,0 +1,10 @@
+﻿[
+	{
+	"id": "1",
+	"Nombre": "Alberto Contador",
+	"Equipo": "Tinkoff",
+	"Pais"	: "España",
+	"Palmares": "2 Tours de Francia, 2 Giro de Italia y 3 Vueltas a España", 
+	"img"	: "Fotos/Contador.png"
+	}
+]
